@@ -62,7 +62,3 @@ section to excess and incubate for 2-3 mins.
 
 Imaging: 
 Slide was imaged using Zeiss light microscope __(insert scope name)__ under bright field.
-
-```python
-
-```
