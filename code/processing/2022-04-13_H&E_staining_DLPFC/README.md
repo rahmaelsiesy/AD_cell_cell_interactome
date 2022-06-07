@@ -53,7 +53,7 @@ Link to image files: *insert here*
 Staining: 
 1. Delipidize sections overnight in 1:1 100% EtOH:CHCl3
 2. In a shallow plastic well, immerse the delipidized sections in 95% EtOH for 3 mins, then 3 mins in 70% EtOH, and then 3 min in dH20. 
-3. In a glass staining glass, apply adequate Hematoxylin, Mayer’s (Lillie’s Modification) to completely cover tissue section and incubate for 5 mins.
+3. In a glass staining jar, apply adequate Hematoxylin, Mayer’s (Lillie’s Modification) to completely cover tissue section and incubate for 5 mins.
 4. Rinse slide in two changes of distilled water (1 min each) to remove excess stain. Move and agitate the slide up and down in the water.
 5. Apply adequate Bluing Reagent to completely cover tissue section and incubate for 15 secs.
 6. Rinse slide in two changes of distilled water (1 min each). Move and agitate the slide up and down.
