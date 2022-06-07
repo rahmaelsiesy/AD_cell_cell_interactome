@@ -7,7 +7,7 @@ reason: There are no objective indicators that render the data set invalid or su
 # 2022-04-15 polyT/dapi hybridization of post-mortem human DLPFC tissue
 
 ## Purpose
-This experiment used a protocol to 
+This experiment used the Cai lab protocol for polyT hybridization to perform polyT and dapi hybridization on DLPFC post-mortem slices. The purpose of this experiment is to ensure that this protocol works. <fill in> 
 
 ## Materials
 
@@ -24,23 +24,24 @@ We did not see the expected staining results - the nuclei were not stained blue 
 <!-- #endregion -->
 
 ## Experimental Protocol
-
-1. Delipidize sections overnight in 1:1 100% EtOH:CHCl3
-2. Place slide for 3 mins in 95% EtOH, 3 mins in 70% EtOH, and 3 min in dH20. 
-3. Apply adequate Hematoxylin, Mayer’s (Lillie’s Modification) to completely cover 
-tissue section and incubate for 5 mins.
-4. Rinse slide in two changes of distilled water (1 min each) to remove excess stain.
-5. Apply adequate Bluing Reagent to completely cover tissue section and incubate for
-15 secs.
-6. Rinse slide in two changes of distilled water (1 min each).
-7. Dip slide in absolute alcohol and blot excess off.
-8. Apply adequate Eosin Y Solution (Modified Alcoholic) to completely cover tissue
-section to excess and incubate for 2-3 mins.
-9. Rinse slide using absolute alcohol (quick).
-10. Dehydrate slide in three changes of absolute alcohol (3 min each).
-11. Clear slide with two changes in xylene (5 min each).
-12. Blot excess and mount in synthetic resin
-
-```python
-
-```
+  
+*Complete steps 1-4 vertically in a glass coplin staining dish, then the rest horizontally in a shallow staining dish*
+1. Obtain poly-lysine derivatized cover slips from Anthony/Jina (Cai lab). Bring coverlip to room temperature then section and mount on coverlips.
+2. Place in 4% PFA in 1X PBS at room temperature for 10 minutes.
+3. Wash twice with 1X PBS for 1 minute each.
+4. 70% EtOH wash at room temperature for 30 minutes. Remove from ethanol and air dry.
+5. Permeabilize in 8% SDS in PBS at room temperature for 30 minutes. Complete this step lying flat with 1 mL on slide in humid chamber. 
+6. Remove SDS with pipette. 
+7. Dip slide gently in 70% EtOH for 2 - 3 times, then air dry. *Note: do this gently otherwise the tissue section might come off the slide*
+8. Rehydrate with 1 mL 2X SSC lying flat for 5 minutes at room temperature. 
+9. Remove 2X SSC and add 100 uL of probe solution. 
+10. Incubate with probe solution for 15-30 minutes.
+11. Remove probe solution then add 10% wash buffer for 5-10 minutes at room temperature. 
+12. Remove wash buffer and rinse with 2X SSC. 
+13. Remove 2X SSC then incubate in 2X SSC + 1:1000 DAPI for 1 minute.
+14. Remove DAPI then wash with 2X SSC twice.
+15. Add equilibration buffer 300 uL for 2 minutes then drain.
+16. Mount in 50 uL slo-fade anti-bleaching solution.
+17. Cover with coverslip and seal with nail polish. 
+18. Image.
+  
