@@ -12,7 +12,14 @@ This experiment used the Cai lab protocol for polyT hybridization to perform pol
 ## Materials
 - humid chambeer = an empty pipette tip box, with a damp tissue in the bottom section & a lid
 - poly-lysine derivatived slides (see protocol)
+- EtoH
+- 1X PBS
+- 4% PFA in 1X PBS
+- 8% SDS in 1X PBS
+- DAPI
+- 10% Wash Buffer: 
 - 
+  
 
 Slide: E8947111, cut on 4/12/22 to dry overnight, DLPFC post-mortem brain slice 
 
