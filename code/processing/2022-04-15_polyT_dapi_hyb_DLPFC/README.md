@@ -37,8 +37,8 @@ We did not see the expected staining results - the nuclei were not stained blue 
 7. Dip slide gently in 70% EtOH for 2 - 3 times, then air dry. *Note: do this gently otherwise the tissue section might come off the slide*
 8. Rehydrate with 1 mL 2X SSC lying flat for 5 minutes at room temperature. 
 9. Remove 2X SSC  add 100 uL of probe solution. 
-10. Incubate with probe solution for 15-30 minutes.
-11. Remove probe solution then add 10% wash buffer for 5-10 minutes at room temperature. 
+10. Incubate with probe solution for 22.5 minutes.
+11. Remove probe solution then add 10% wash buffer for 7.5 minutes at room temperature. 
 12. Remove wash buffer and rinse with 2X SSC. 
 13. Remove 2X SSC then incubate in 2X SSC + 1:1000 DAPI for 1 minute.
 14. Remove DAPI then wash with 2X SSC twice.
