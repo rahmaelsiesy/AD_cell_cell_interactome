@@ -3,10 +3,10 @@ status: Accepted
 reason: There are no objective indicators that render the data set invalid or suspect.
 ---
 
-# 2022-05-16 sequential polyT/dapi hybridization of post-mortem human DLPFC tissue
+# 2022-06-13 PolyT/dapi, H&E, wright giemmsa, and abeta/tau staining of post-mortem human DLPFC tissue
 
 ## Purpose
-This experiment used a protocol to 
+The purpose
 
 ## Materials
 Imaging: 
