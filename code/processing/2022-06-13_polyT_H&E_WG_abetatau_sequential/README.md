@@ -88,8 +88,8 @@ For slide #1 and #3 (wright giemmsa stain):
 5. Immerse slide in 95% Etoh 3 minutes at room temperature
 6. Stain in Wright-Giemsa stain (full strength) for 30 seconds (I use a dropper and hold the slide over a tray).
 7. Immerse slide in UltraPure H2O and move it around to rinse (brief).
-8. Dip slide in 70% Etoh 3-4X (brief)
-9. Dip slide in 95% Etoh 3-4X (brief)
+8. Dip slide in 70% Etoh for 1 minute, while moving the slide up and down.
+9. Dip slide in 95% Etoh for 1 minute, while moving the slide up and down.
 10. Dip slide in fresh 100% Etoh 3-4X (brief)
 11. Dip slide in fresh 100% Etoh 3-4X (brief)
 12. Immerse slide in xylene bath #1 – 5 minutes
