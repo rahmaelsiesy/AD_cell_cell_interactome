@@ -17,6 +17,17 @@ Staining & Imaging:
 Slide: 3453102, slice #1-4 cut on 6/10/22 and stored in freezer for 3 days, DLPFC post-mortem cogdx 1 brain slice
 Slide: 4781406, slice #1-4 cut on 6/10/22 and stored in freezer for 3 days, DLPFC post-mortem cogdx 4 brain slice
 
+#### Wright Giemmsa stain: 
+- SuperFrost Plus Slides (VWR catalog # 48311-703)
+- Camco Quik Stain II Buffered Differential Wright-Giemsa Stain (Gold Bros. catalog # 211)
+- 1:1 mixture of chloroform:100% Etoh
+- 100% Etoh
+- 95% Etoh
+- 70% Etoh
+- Xylene
+- Permount mounting medium (Fisher catalog # SP15-100)
+- Glass coverslips 22mm X 22mm
+
 ## Notes and Observations
 
 ## Summary of Results
@@ -69,5 +80,18 @@ For slides # 2 (**sequential polyT/dapi -> abeta/tau antibody -> H&E**):
 14. 3X 5' PBS washes (add DAPI during the second wash)
 15. Mounting with SlowFade™ Gold Antifade Mountant.
 
-
-
+For slide #1 and #3 (wright giemmsa stain):
+1. Section fresh frozen brain tissue at 40 microns; collect the section(s) on a SuperFrost Plus slide at room temperature. Set aside on the bench to dry; inspect the section visually to insure that it is no longer wet before proceeding. Sections can sit for hours (even days) at room temperature while drying.
+2. Perform all following steps in the fume hood (chloroform and xylene are hazards).
+3. Immerse slide in chloroform:100% Etoh 5 minutes at room temperature (or overnight also works).
+4. Immerse slide in 100% Etoh 3 minutes at room temperature
+5. Immerse slide in 95% Etoh 3 minutes at room temperature
+6. Stain in Wright-Giemsa stain (full strength) for 30 seconds (I use a dropper and hold the slide over a tray).
+7. Immerse slide in UltraPure H2O and move it around to rinse (brief).
+8. Dip slide in 70% Etoh 3-4X (brief)
+9. Dip slide in 95% Etoh 3-4X (brief)
+10. Dip slide in fresh 100% Etoh 3-4X (brief)
+11. Dip slide in fresh 100% Etoh 3-4X (brief)
+12. Immerse slide in xylene bath #1 – 5 minutes
+13. Immerse slide in xylene bath #2 – 5 minutes
+14. Remove slide from xylene bath #2, drain, and place face up on a fresh paper towel. Add 3 drops permount and mount under coverslip. Let dry to harden before inspecting on microscope.
