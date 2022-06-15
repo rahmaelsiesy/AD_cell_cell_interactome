@@ -95,3 +95,17 @@ For slide #1 and #3 (wright giemmsa stain):
 12. Immerse slide in xylene bath #1 – 5 minutes
 13. Immerse slide in xylene bath #2 – 5 minutes
 14. Remove slide from xylene bath #2, drain, and place face up on a fresh paper towel. Add 3 drops permount and mount under coverslip. Let dry to harden before inspecting on microscope.
+
+For slides #2 and #4 (H&E): 
+1. Place the hematoxylin glass staining dish, the 0.5 percent acid alcohol glass staining dish, the ammonium hydroxide with tap water staining dish and COLD distilled water staining dish on the counter top right by sink.
+2. Place slide in hematoxylin stain for 9 minutes. SET TIMER!
+3. Remove from hematoxylin and rinse in running tap water until clear, 3-5 minutes.  While rinsing make sure to keep discarding water yet keeping slides wet until water is clear.
+4. Remove slide rack from water, drain and DIP QUICKLY 2-3 times in the acid alcohol.
+5. Transfer slide rack to COLD DISTILLED WATER in glass staining dish on counter and dip a couple of times before transferring to large staining dish in sink to continue rinsing in COLD running tap water.  Keep rinsing in water 2 times.  Change to lukewarm water when draining slides to place in ammonium hydroxide.
+6. QUICK DIPS 3-5 times in ammonium hydroxide and then rinse in lukewarm running tap water 3 – 4 minutes discarding water until clear.
+7. Drain slides and go under fume hood and ONE QUICK DIP in 95 percent alcohol and then only 9 SECONDS IN EOSIN Y STAIN.  MAKE SURE TO SET TIMER FOR 9 SECONDS.
+8. Continue with ten (10) dips in 95 percent alcohol two (2) separate times, ten (10) dips in absolute alcohol two (2) separate times and ten (10) dips in xylene two (2) separate times.  Slides can be left in the last Xylene staining dish until mounting with cover slips can be done.
+9. When mounting make sure to wipe excess Xylene off  IN BACK OF SLIDE NOT FRONT with Kimwipe.  DO NOT WIPE SLIDE IN FRONT OR WILL RUIN TISSUE SPECIMEN.
+10. Quickly place a small amount of Cytoseal mounting medium along slide edge horizontally and holding cover slip width wise carefully lower on slide to cover tissue specimen.
+11. Remove any bubbles from under cover slip by gently pressing on cove rslip with a cotton swab and helping move bubble to the closest edge. Gently wipe away any excess mounting medium. Place on slide holder and allow to dry thoroughly. Label slide with case number, date, type of stain, block number.
+
