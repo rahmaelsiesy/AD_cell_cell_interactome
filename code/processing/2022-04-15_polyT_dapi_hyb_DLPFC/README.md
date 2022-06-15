@@ -10,7 +10,7 @@ reason: There are no objective indicators that render the data set invalid or su
 This experiment used the Cai lab protocol for polyT hybridization to perform polyT and dapi hybridization on DLPFC post-mortem slices. The purpose of this experiment is to ensure that this protocol works. <fill in> 
 
 ## Materials
-- humid chambeer = an empty pipette tip box, with a damp tissue in the bottom section & a lid
+- humid chamber = an empty pipette tip box, with a damp tissue in the bottom section & a lid
 - poly-lysine derivatived slides (see protocol)
 - EtoH
 - 1X PBS
@@ -18,16 +18,12 @@ This experiment used the Cai lab protocol for polyT hybridization to perform pol
 - 8% SDS in 1X PBS
 - DAPI
 - 10% Wash Buffer: 
-- 
-  
 
 Slide: E8947111, cut on 4/12/22 to dry overnight, DLPFC post-mortem brain slice 
 
 ## Notes and Observations
-The reagents were several years old and we suspected that they might not work.
 
 ## Summary of Results
-We did not see the expected staining results - the nuclei were not stained blue as expected, but were a faint brown.
 
 *include image here*
 <!-- #endregion -->
